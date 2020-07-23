@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/img/favicon.png">
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/base.css">
+    <link rel="stylesheet" href="/css/dinner.css">
+    <link rel="stylesheet" href="/css/state.css">
+    <title>Joey-Menu | Restaurant Menu</title>
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="container header">
+        <div class="row">
+            <div class="col-12">
+                <a href="/index.html">
+                    <img src="/img/logo.png" alt="Restaurant Menu">
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <button class="col-1 menu" type="button">
+                    <span class="menu__btn"></span>
+                </button>
+                <nav class="col-11 navbar">
+                    <a class="navbar__item" href="/dinner.html">Menu</a>
+                    <a class="navbar__item" href="#menu">Order</a>
+                    <a class="navbar__item" href="#menu">Wait List</a>
+                    <a class="navbar__item" href="#menu">Offers</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <!-- End Header -->
+
+    <!-- Menu Categories Tablet -->
+    <section class="container menu-categories--tablet">
+        <div class="row">
+            <a href="/dinner.html">
+                <img src="/img/logo-tablet.png" alt="Restaurant Menu">
+            </a>
+            <span class="item-btn-close item-btn-close--red"></span>
+            <div class="select-nav select-nav--primary">
+                <ul class="list-items">
+                    <li class="title-items">Dinner</li>
+                    <span class="arrow"></span>
+                </ul>
+                <div class="select-nav__submenu select-nav__submenu--primary">
+                    <a href="/dinner.html">
+                        <li class="items">Dinner</li>
+                    </a>
+                    <a href="/lunch.html">
+                        <li class="items">Lunch</li>
+                    </a>
+                </div>
+            </div>
+            <div class="select-nav select-nav--secondary">
+                <ul class="list-items">
+                    <li class="title-items">Joey Menu</li>
+                    <span class="arrow"></span>
+                </ul>
+                <div class="select-nav__submenu select-nav__submenu--secondary">
+                    <a href="/pages/dinner/specials.html">
+                        <li class="items">Specials</li>
+                    </a>
+                    <a href="/pages/dinner/aussie-party-platters/aussie-party-platters.html">
+                        <li class="items">Aussie Party Platters</li>
+                    </a>
+                    <a href="/pages/dinner/startes.html">
+                        <li class="items">Starters</li>
+                    </a>
+                    <a href="/pages/dinner/steaks.html">
+                        <li class="items">Steaks</li>
+                    </a>
+                    <a href="/pages/dinner/entrees.html">
+                        <li class="items">Entrees</li>
+                    </a>
+                    <a href="/pages/dinner/sides.html">
+                        <li class="items">Sides</li>
+                    </a>
+                    <a href="/pages/dinner/desserts.html">
+                        <li class="items">Desserts</li>
+                    </a>
+                    <a href="/pages/dinner/joey-menu.html">
+                        <li class="items">Joey Menu</li>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Menu Categories Tablet -->
+
+    <!-- Menu Type Desktop-->
+    <aside class="container menu-type--desktop">
+        <div class="menu-type-row menu-type--dinner">
+            <a class="menu-type__item menu-type--enabled" href="/dinner.html">Dinner</a>
+        </div>
+        <div class="menu-type-row menu-type--lunch">
+            <a class="menu-type__item menu-type--disabled" href="/lunch.html">Lunch</a>
+        </div>
+    </aside>
+    <!-- End Menu Type  Desktop-->
+
+    <!-- Menu Categories Desktop -->
+    <section class="container menu-categories--desktop">
+        <ul class="desk-menu menu-type">
+            <li>
+                <a class="desk-menu__item" href="/dinner.html">
+                    <span class="desk-menu__item-text">Specials</span>
+                </a>
+            </li>
+            <li>
+                <a class="desk-menu__item" href="/pages/dinner/aussie-party-platters/aussie-party-platters.html"><span class="desk-menu__item-text ">Aussie Party Platters</span></a>
+            </li>
+            <li>
+                <a class="desk-menu__item" href="/pages/dinner/startes.html"><span class="desk-menu__item-text">Starters</span></a>
+            </li>
+            <li>
+                <a class="desk-menu__item" href="/pages/dinner/steaks.html"><span class="desk-menu__item-text">Steaks</span></a>
+            </li>
+            <li>
+                <a class="desk-menu__item" href="/pages/dinner/entrees.html"><span class="desk-menu__item-text">Entrees</span></a>
+            </li>
+            <li>
+                <a class="desk-menu__item" href="/pages/dinner/sides.html"><span class="desk-menu__item-text">Sides</span></a>
+            </li>
+            <li>
+                <a class="desk-menu__item" href="/pages/dinner/desserts.html"><span class="desk-menu__item-text">Desserts</span></a>
+            </li>
+            <li>
+                <a class="desk-menu__item" href="/pages/dinner/joey-menu.html"><span class="desk-menu__item-text menu-item-active">Joey Menu</span></a>
+                <ul class="desk-submenu">
+                    <li>
+                        <a class="desk-submenu__item" href="#link-nav-joey1"><span class="desk-menu__item-text">Entrees</span></a>
+                    </li>
+                    <li>
+                        <a class="desk-submenu__item" href="#link-nav-joey2"><span class="desk-menu__item-text">Choice of Sides</span></a>
+                    </li>
+                    <li>
+                        <a class="desk-submenu__item" href="#link-nav-joey3"><span class="desk-menu__item-text">Desserts</span></a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+    <!-- End Menu Categories Desktop -->
+
+    <div class="menu-content--desktop">
+        <!-- Menu Type -->
+        <section class="container">
+            <div class="row">
+                <div class="col-6 menu-type menu-type--tablet" id="banner-joeyMenu">
+                    <a href="/dinner.html"><span class="menu-type__label">Joey Menu</span></a>
+                </div>
+            </div>
+        </section>
+        <!-- End Menu Type -->
+
+        <!-- Menu Content -->
+        <section class="container" id="section-border">
+
+            <div class="menu-content__box" id="link-nav-joey1">
+
+                <div class="row menu-content__item">
+                    <!-- Menu Content Mobile -->
+                    <section class="container menu-content menu-content--mobile">
+                        <div class="row">
+                            <a class="menu-content__categories" href="/pages/dinner/joey-menu/entrees.html"><span class="menu-sub__label">Entrees</span></a>
+                        </div>
+                    </section>
+                    <!-- End Menu Content Mobile -->
+                    <div class="menu-content--tablet">
+                        <div class="col-6 menu-content__header">
+                            <a class="menu-content__categories" href="/pages/dinner/joey-menu/entrees.html"><span class="menu-sub__label">Entrees</span></a>
+                        </div>
+                        <!-- Entrees Content -->
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/entrees/menu-item1.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/entrees/menu-item2.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/entrees/menu-item3.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/entrees/menu-item4.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/entrees/menu-item5.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/entrees/menu-item6.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <!-- End Entrees Content -->
+                    </div>
+                </div>
+
+                <div class="row menu-content__item" id="section-border">
+                    <!-- Menu Content Mobile -->
+                    <section class="container menu-content menu-content--mobile">
+                        <div class="row">
+                            <a class="menu-content__categories" href="/pages/dinner/joey-menu/choice-of-side.html"><span class="menu-sub__label">Choice of Side</span></a>
+                        </div>
+                    </section>
+                    <!-- End Menu Content Mobile -->
+                    <div class="menu-content--tablet" id="link-nav-joey2">
+                        <div class="col-6 menu-content__header">
+                            <a class="menu-content__categories" href="/pages/dinner/joey-menu/choice-of-side.html"><span class="menu-sub__label">Choice of Side</span></a>
+                        </div>
+                        <!-- Choice Content -->
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/choice-of-side/menu-item1.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/choice-of-side/menu-item2.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <!-- End Choice Content -->
+                    </div>
+                </div>
+
+                <div class="row menu-content__item" id="section-border">
+                    <!-- Menu Content Mobile -->
+                    <section class="container menu-content menu-content--mobile">
+                        <div class="row">
+                            <a class="menu-content__categories" href="/pages/dinner/joey-menu/desserts.html"><span class="menu-sub__label">Desserts</span></a>
+                        </div>
+                    </section>
+                    <!-- End Menu Content Mobile -->
+                    <div class="menu-content--tablet" id="link-nav-joey3">
+                        <div class="col-6 menu-content__header">
+                            <a class="menu-content__categories" href="/pages/dinner/joey-menu/desserts.html"><span class="menu-sub__label">Desserts</span></a>
+                        </div>
+                        <!-- Desserts Content -->
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/desserts/menu-item1.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <div class="row menu-content__item">
+                            <div class="col-12">
+                                <h6><a class="menu-item__title" href="/pages/dinner/joey-menu/desserts/menu-item2.html">Menu Item Title</a></h6>
+                                <p class="menu-item__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan augue a magna tincidunt, eget pharetra nisl placerat. Nunc porttitor dolor quis metus sollicitudin rhoncus.</p>
+                            </div>
+                        </div>
+                        <div class="row menu-content__description">
+                            <div class="col-12">
+                                <p class="menu-disclaimer">
+                                    * These items are cooked to order. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs which may contain harmful bacteria may increase your risk of foodborne illness or death, especially if you have certain medical conditions. Prices,
+                                    products, and participation may vary.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- End Desserts Content -->
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <!-- End Menu Content -->
+    </div>
+
+    <script src="/js/jquery-1.11.0.min.js"></script>
+    <script src="/js/navTablet.js"></script>
+
+</body>
+
+</html>
