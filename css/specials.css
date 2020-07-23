@@ -1,0 +1,22 @@
+#special-bg1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/specials-bg1.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#special-bg2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/specials-bg2.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#special-bg1--lunch {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/specials-bg1--lunch.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.menu-specials__subtitle {
+    font-size: 16px;
+}
+
+.menu-specials__title {
+    font-size: 32px;
+}
