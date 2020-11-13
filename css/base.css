@@ -11,7 +11,7 @@
     width: 100%;
     top: 0;
     right: 0;
-    background: url(/img/menu-bg.png);
+    background: url(../img/menu-bg.png);
     z-index: 2;
 }
 
@@ -235,7 +235,7 @@
 }
 
 .item--bg {
-    background: url(/img/menu-bg.png);
+    background: url(../img/menu-bg.png);
 }
 
 .item--align {
@@ -360,31 +360,31 @@
         width: 100%;
     }
     #banner-aussie {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/banner-aussier.jpg) no-repeat center fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/banner-aussier.jpg) no-repeat center fixed;
         background-size: cover;
     }
     #banner-starters {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/banner-starters.jpg) no-repeat center fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/banner-starters.jpg) no-repeat center fixed;
         background-size: cover;
     }
     #banner-steaks {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/banner-steaks.jpg) no-repeat center fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/banner-steaks.jpg) no-repeat center fixed;
         background-size: cover;
     }
     #banner-entrees {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/banner-entrees.jpg) no-repeat center fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/banner-entrees.jpg) no-repeat center fixed;
         background-size: cover;
     }
     #banner-sides {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/banner-sides.jpg) no-repeat center fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/banner-sides.jpg) no-repeat center fixed;
         background-size: cover;
     }
     #banner-desserts {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/banner-desserts.jpg) no-repeat center fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/banner-desserts.jpg) no-repeat center fixed;
         background-size: cover;
     }
     #banner-joeyMenu {
-        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/banner-joeyMenu.jpg) no-repeat center fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/banner-joeyMenu.jpg) no-repeat center fixed;
         background-size: cover;
     }
     .menu-type__label {
@@ -456,7 +456,7 @@
     .menu-footer {
         display: flex;
         padding-bottom: 4rem;
-        background: url(/img/menu-bg.png) no-repeat;
+        background: url(../img/menu-bg.png) no-repeat;
         background-size: cover;
     }
     .menu-footer__content {
@@ -550,7 +550,7 @@
         bottom: 0;
         width: 37.5%;
         height: 100%;
-        background: url(/img/menu-bg.png);
+        background: url(../img/menu-bg.png);
     }
     .menu-type-row {
         height: 50%;
