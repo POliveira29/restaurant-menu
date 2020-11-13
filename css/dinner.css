@@ -3,7 +3,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background: url(/img/menu-starters.png) no-repeat center;
+        background: url(../img/menu-starters.png) no-repeat center;
         /*border-bottom: 2px solid #1A1918;*/
         background-size: 200px;
     }
