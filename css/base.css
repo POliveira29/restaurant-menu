@@ -164,7 +164,7 @@
     background-color: #F6F2E8;
 }
 
-.menu-content__item {
+.menu-content__item, .menu-content__item--mobile {
     padding: 2rem 0;
     border-bottom: 1px solid #E8DCC2;
 }
