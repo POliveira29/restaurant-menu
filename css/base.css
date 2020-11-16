@@ -146,7 +146,7 @@
 /*.menu-content__header,*/
 .menu-content__header-description,
 .menu-footer,
-.menu-content--tablet,
+/*.menu-content--tablet,*/
 .menu-categories--desktop,
 .menu-type--desktop {
     display: none;
