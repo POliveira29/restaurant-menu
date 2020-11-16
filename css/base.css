@@ -143,10 +143,9 @@
 
 .custom-select,
 .desk-submenu,
-/*.menu-content__header,*/
 .menu-content__header-description,
+.menu-content__item,
 .menu-footer,
-/*.menu-content--tablet,*/
 .menu-categories--desktop,
 .menu-type--desktop {
     display: none;
