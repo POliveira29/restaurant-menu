@@ -53,4 +53,7 @@
     .row--display {
         display: block;
     }
+    .title-items{
+        margin-right: 1.6em;
+    }
 }
