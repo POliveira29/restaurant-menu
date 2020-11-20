@@ -146,6 +146,7 @@
 .menu-content__header-description,
 .menu-content__item,
 .menu-footer,
+.menu-content--mobile,
 .menu-categories--desktop,
 .menu-type--desktop {
     display: none;
@@ -286,7 +287,7 @@
     .menu-items {
         display: none;
     }
-    .menu-content--desktop {
+    .menu-content--desktop,.menu-content--mobile,.menu-content__description {
         display: block;
     }
     .menu-categories--tablet {
@@ -417,9 +418,6 @@
     }
     .menu-content__item:nth-child(1) {
         border-top: 0;
-    }
-    .menu-content__description{
-        display:block;
     }
     #section-border {
         border-top: 2px solid #8a6d3b;
