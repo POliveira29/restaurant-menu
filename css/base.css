@@ -179,6 +179,10 @@
     color: var(--clr-black);
 }
 
+.menu-content__description{
+    display:none;
+}
+
 
 /* Menu Items.css */
 
@@ -413,6 +417,9 @@
     }
     .menu-content__item:nth-child(1) {
         border-top: 0;
+    }
+    .menu-content__description{
+        display:block;
     }
     #section-border {
         border-top: 2px solid #8a6d3b;
