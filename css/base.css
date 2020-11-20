@@ -143,6 +143,7 @@
 
 .custom-select,
 .desk-submenu,
+.menu-content__header,
 .menu-content__header-description,
 .menu-content__item,
 .menu-footer,
@@ -287,7 +288,7 @@
     .menu-items {
         display: none;
     }
-    .menu-content--desktop,.menu-content--mobile,.menu-content__description {
+    .menu-content--desktop,.menu-content--mobile, .menu-content__header, .menu-content__description {
         display: block;
     }
     .menu-categories--tablet {
