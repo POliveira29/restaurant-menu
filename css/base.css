@@ -143,7 +143,6 @@
 
 .custom-select,
 .desk-submenu,
-/*.menu-content__header,*/
 .menu-content__header-description,
 .menu-content__item,
 .menu-footer,
@@ -179,6 +178,10 @@
     text-transform: uppercase;
     font-weight: var(--fw-medium, 600);
     color: var(--clr-black);
+}
+
+.menu-content__header--none{
+    display:none;
 }
 
 .menu-content__description{
