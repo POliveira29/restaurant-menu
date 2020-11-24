@@ -181,9 +181,9 @@
     color: var(--clr-black);
 }
 
-/*.menu-content__description{
+.menu-content__description{
     display:none;
-}*/
+}
 
 
 /* Menu Items.css */
