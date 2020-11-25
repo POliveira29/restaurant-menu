@@ -286,7 +286,8 @@
 /* MEDIA QUERY */
 
 @media only screen and (min-width: 768px) {
-    .menu-type>a{
+    .menu-type>a,
+    .menu-content__header{
         pointer-events: none;
         cursor: default;
     }
