@@ -26,7 +26,7 @@ Feito com base no menu do site [Outback Steakhouse](https://www.outback.com/)
 [Nadine Primeau](https://unsplash.com/@nadineprimeau?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
 [Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
 
-- Fontes:  **[Open Sans](https://fonts.google.com/specimen/Open+Sans)**,  **[Domine](https://fonts.google.com/specimen/Domine)**
+- Fontes:  **[Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin)**
 
 
 ## 📝 Licença
