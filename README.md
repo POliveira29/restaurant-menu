@@ -15,7 +15,7 @@
 Feito com base no menu do site [Outback Steakhouse](https://www.outback.com/)
 
 ## Utilitários
-- Imagens:
+- Imagens:<br/>
 [Emerson Vieira](https://unsplash.com/@emersonvieira?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
 [Christian Bolt](https://unsplash.com/@christianbolt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
 [Jimi Filipovski](https://unsplash.com/@jimiburg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
