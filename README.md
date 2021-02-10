@@ -16,15 +16,15 @@ Feito com base no menu do site [Outback Steakhouse](https://www.outback.com/)
 
 ## Utilitários
 - Imagens:
-[Emerson Vieira](https://unsplash.com/@emersonvieira?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-[Christian Bolt](https://unsplash.com/@christianbolt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-[Jimi Filipovski](https://unsplash.com/@jimiburg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-[bckfwd](https://unsplash.com/@bckfwd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-[Christian Wiediger](https://unsplash.com/@christianw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-[Micheile Henderson](https://unsplash.com/@micheile?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-[Camila Melim](https://unsplash.com/@camilamelim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-[Nadine Primeau](https://unsplash.com/@nadineprimeau?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-[Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+[Emerson Vieira](https://unsplash.com/@emersonvieira?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
+[Christian Bolt](https://unsplash.com/@christianbolt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
+[Jimi Filipovski](https://unsplash.com/@jimiburg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
+[bckfwd](https://unsplash.com/@bckfwd?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
+[Christian Wiediger](https://unsplash.com/@christianw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
+[Micheile Henderson](https://unsplash.com/@micheile?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
+[Camila Melim](https://unsplash.com/@camilamelim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
+[Nadine Primeau](https://unsplash.com/@nadineprimeau?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
+[Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)<br/>
 
 - Fontes:  **[Open Sans](https://fonts.google.com/specimen/Open+Sans)**,  **[Domine](https://fonts.google.com/specimen/Domine)**
 
